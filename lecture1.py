@@ -31,3 +31,4 @@ print(name2.find('R')); #it will find the first index number of Raj
 
 
 
+
